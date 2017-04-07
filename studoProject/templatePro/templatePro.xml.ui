@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\JHFYL\studoProject\templatePro</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\JHFYL\studoProject\templatePro\Resources</Resources>
+  <Name>templatePro</Name>
+  <JsonFileName>templatePro.json</JsonFileName>
+  <JsonFolder>E:\JHFYL\studoProject\templatePro\Json</JsonFolder>
+  <JsonList>
+    <string>view_test.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>640</Width>
+    <Height>1136</Height>
+  </CanvasSize>
+  <filePath>E:\JHFYL\studoProject\templatePro\templatePro.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList>
+    <string>public/arrowbig.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>view_test.json</CurrentUIJson>
+</UIProject>

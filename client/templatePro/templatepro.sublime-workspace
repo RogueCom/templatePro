@@ -1,0 +1,1763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"map",
+				"mapPos\t."
+			],
+			[
+				"dista",
+				"distanceX\t."
+			],
+			[
+				"GameConfi",
+				"GameConfig.stepHight\t."
+			],
+			[
+				"distance",
+				"distanceY\t."
+			],
+			[
+				"GameConfig",
+				"GameConfig.stepWith\t."
+			],
+			[
+				"setPosti",
+				"setPosition(x, y)\tNode"
+			],
+			[
+				"setpositio",
+				"setPosition(x, y)\tNode"
+			],
+			[
+				"replace",
+				"replaceMap(mapName, pos)\tGameMapView"
+			],
+			[
+				"GameMap",
+				"GameMapView\t."
+			],
+			[
+				"distan",
+				"distanceY\t."
+			],
+			[
+				"getPOsition",
+				"getPositionX()\tNode"
+			],
+			[
+				"GameM",
+				"GameMapView\t."
+			],
+			[
+				"setPositio",
+				"setPosition(x, y)\tNode"
+			],
+			[
+				"Tai",
+				"TileMapAtlas\t."
+			],
+			[
+				"remove",
+				"removeAllChildren()\tNode"
+			],
+			[
+				"creates",
+				"createScene()\tLogoScene"
+			],
+			[
+				"vie",
+				"ViewMgr"
+			],
+			[
+				"addchia",
+				"addChild(child, localZOrder, name)\tNode"
+			],
+			[
+				"config_screen",
+				"CONFIG_SCREEN_WIDTH"
+			],
+			[
+				"config_sce",
+				"CONFIG_SCREEN_HEIGHT"
+			],
+			[
+				"config_",
+				"CONFIG_SCREEN_WIDTH"
+			],
+			[
+				"getname",
+				"getNickName()\tBattleRole"
+			],
+			[
+				"getroomi",
+				"getRoomId()\tAccountMgr"
+			],
+			[
+				"getrole",
+				"getRoleByCliendPos(clientPos)\tRoomDataMgr"
+			],
+			[
+				"for",
+				"fori\tfor i,v in ipairs()"
+			],
+			[
+				"getcard",
+				"getCardNum()\tBattleRole"
+			],
+			[
+				"needload",
+				"needLoadSize"
+			],
+			[
+				"full",
+				"fullPathForFilename(filename)\tFileUtils"
+			],
+			[
+				"createD",
+				"createDir()\tMyApp"
+			],
+			[
+				"print",
+				"print(···)"
+			],
+			[
+				"handler",
+				"handler(obj, method)\t."
+			],
+			[
+				"e",
+				"exit()\tAppBase"
+			],
+			[
+				"downLoadFile",
+				"downLoadFileRequest()\tUpdateUtils"
+			],
+			[
+				"ccl",
+				"cclog\t."
+			],
+			[
+				"device",
+				"device.platform\t."
+			],
+			[
+				"getshow",
+				"getShowPage()\tRoomDataMgr"
+			],
+			[
+				"getopen",
+				"getOpenId()\tAccountMgr"
+			],
+			[
+				"getserch",
+				"getSearchPaths()\tFileUtils"
+			],
+			[
+				"devi",
+				"device.platform\t."
+			],
+			[
+				"cclog",
+				"cclog(...)\tcclog-"
+			],
+			[
+				"getcurrent",
+				"getCurrentRound()\tRoomDataMgr"
+			],
+			[
+				"getip",
+				"getIP()\tBattleRole"
+			],
+			[
+				"get",
+				"getIP()\tBattleRole"
+			],
+			[
+				"getbom",
+				"getBombCount()\tRoomDataMgr"
+			],
+			[
+				"setrole",
+				"setRoleID(roleID)\tBattleRole"
+			],
+			[
+				"getbattle",
+				"getBattleResult()\tRoomDataMgr"
+			],
+			[
+				"setframe",
+				"setFrameSize(width, height)\tGLView"
+			],
+			[
+				"getposition",
+				"getPositionX()\tNode"
+			],
+			[
+				"setscore",
+				"setScore(score)\tBattleRole"
+			],
+			[
+				"getbomb",
+				"getBombCount()\tBattleRole"
+			],
+			[
+				"setcurrent",
+				"setCurrentRound(currentRound)\tRoomDataMgr"
+			],
+			[
+				"setPosition",
+				"setPositionX(x)\tNode"
+			],
+			[
+				"getpositio",
+				"getPositionX()\tUILayout"
+			],
+			[
+				"getCont",
+				"getContentSize()\tNode"
+			],
+			[
+				"Message",
+				"MessageType\t."
+			],
+			[
+				"getico",
+				"getIcon()\tBattleRole"
+			],
+			[
+				"w",
+				"width\t."
+			],
+			[
+				"setString",
+				"setString(text)\tLabel"
+			],
+			[
+				"getroleby",
+				"getRoleByCliendPos(clientPos)\tRoomDataMgr"
+			],
+			[
+				"Roleinfo",
+				"RoleInfoUI\t."
+			],
+			[
+				"Addcar",
+				"addCardClick"
+			],
+			[
+				"addchi",
+				"addChild(child, localZOrder, name)\tNode"
+			],
+			[
+				"getchial",
+				"getChildByTag(tag)\tNode"
+			],
+			[
+				"getopenid",
+				"getOpenID()\tBattleRole"
+			],
+			[
+				"open",
+				"open()\tReleaseRoomUI"
+			],
+			[
+				"clear",
+				"clearBattle()\tBattleService"
+			],
+			[
+				"unregist",
+				"unregistBattleNotify()\tProtocolMgr"
+			],
+			[
+				"close",
+				"closeSocketAsk()\tProtocolMgr"
+			],
+			[
+				"proto",
+				"ProtocolMgr"
+			],
+			[
+				"config",
+				"configBtn"
+			],
+			[
+				"releaseRoom",
+				"releaseRoomResponstAsk(agree)\tProtocolMgr"
+			],
+			[
+				"schdule",
+				"scheduleScriptFunc"
+			],
+			[
+				"getscor",
+				"getScore()\tBattleRole"
+			],
+			[
+				"setscor",
+				"setScore(score)\tBattleRole"
+			],
+			[
+				"getframe",
+				"getFrameSize()\tGLView"
+			],
+			[
+				"celar",
+				"clearRound()\tBattleRole"
+			],
+			[
+				"removefrom",
+				"removeFromParent()\tNode"
+			],
+			[
+				"getstirng",
+				"getString()\tLabel"
+			],
+			[
+				"getStrin",
+				"getString()\tLabel"
+			],
+			[
+				"gsub",
+				"string.gsub(s,pattern,repl[,n])"
+			],
+			[
+				"getnam",
+				"getName()\tNode"
+			],
+			[
+				"setse",
+				"setSelected(bSelected)\tControl"
+			],
+			[
+				"removeFrom",
+				"removeFromParent()\tNode"
+			],
+			[
+				"getop",
+				"getOpenID"
+			],
+			[
+				"getchild",
+				"getChildByName(T)\tNode"
+			],
+			[
+				"getchia",
+				"getChildByTag(tag)\tNode"
+			],
+			[
+				"regist",
+				"registMsg(msgType, msgHandle)\tMessageManager"
+			],
+			[
+				"getro",
+				"getRoleByCliendPos(clientPos)\tRoomDataMgr"
+			],
+			[
+				"send",
+				"sendMsg(message)\tMessageManager"
+			],
+			[
+				"table",
+				"table.insert(table,[pos,]value)"
+			],
+			[
+				"popc",
+				"popCard(pks)\tBattleService"
+			],
+			[
+				"setre",
+				"setReady(ready)\tBattleRole"
+			],
+			[
+				"m_mix",
+				"m_mixCard"
+			],
+			[
+				"getco",
+				"getColor()\tNode"
+			],
+			[
+				"setco",
+				"setColor(color)\tCardData"
+			],
+			[
+				"setca",
+				"setCardCount(value)\tBattleRoleDis"
+			],
+			[
+				"setvis",
+				"setVisible(visible)\tNode"
+			],
+			[
+				"m_pop",
+				"m_popNot"
+			],
+			[
+				"getroominfo",
+				"getRoomInfoAsk"
+			],
+			[
+				"createroom",
+				"createRoomResponse()\tProtocolMgr"
+			],
+			[
+				"loginre",
+				"loginRequest(openId, Access_Token, Code)\tProtocolMgr"
+			],
+			[
+				"userinfore",
+				"userInfoRsponse"
+			],
+			[
+				"handle",
+				"handler(obj, method)\t."
+			],
+			[
+				"sche",
+				"scheduleUpdate()\tNode"
+			],
+			[
+				"tab",
+				"table.remove(table[,pos])"
+			],
+			[
+				"getchil",
+				"getChildByName(T)\tNode"
+			],
+			[
+				"setposition",
+				"setPositionX(x)\tUILayout"
+			],
+			[
+				"visi",
+				"visible\t."
+			],
+			[
+				"color",
+				"colors\t."
+			],
+			[
+				"flush",
+				"flushHandCards(role)\tBattleRoleDis"
+			],
+			[
+				"setvise",
+				"setVisible(visible)\tCardDis"
+			],
+			[
+				"showop",
+				"showCardOpeBtn()\tBattleRoleDis"
+			],
+			[
+				"m_ski",
+				"m_skipPopBtn"
+			],
+			[
+				"Card",
+				"CardData\t."
+			],
+			[
+				"her",
+				"heroRole\t."
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"getposi",
+				"getPositionX()\tUILayout"
+			],
+			[
+				"fun",
+				"function\tfunction"
+			],
+			[
+				"requi",
+				"require(modname)"
+			],
+			[
+				"m_tick",
+				"m_tickTime"
+			],
+			[
+				"m_score",
+				"m_scoreLable"
+			],
+			[
+				"rolein",
+				"roleGetIn(pos)\tBattleView"
+			],
+			[
+				"pkctrl",
+				"PKCtrlModel"
+			],
+			[
+				"require",
+				"require(modname)"
+			],
+			[
+				"req",
+				"requireRoomInfo(roomId)\tLoginScene"
+			],
+			[
+				"getsocke",
+				"getSocketPort()\tRoomDataMgr"
+			],
+			[
+				"enter",
+				"enterBattle()\tBattleService"
+			],
+			[
+				"setsocket",
+				"setSocketPort(socketPort)\tRoomDataMgr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/service/GameMapMgr.lua",
+			"settings":
+			{
+				"buffer_size": 566,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/views/GameMapView.lua",
+			"settings":
+			{
+				"buffer_size": 1501,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 138 files for \"cc.Vec3\" (case sensitive)\n\n0 matches\n\nSearching 138 files for \"cc.vec3\" (case sensitive)\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\cocos\\cocos2d\\Cocos2d.lua:\n  365  end\n  366  \n  367: function cc.vec3(_x, _y, _z)\n  368      return { x = _x, y = _y, z = _z }\n  369  end\n  ...\n  373  end\n  374  \n  375: function cc.vec3normalize(vec3)\n  376      local n = vec3.x * vec3.x + vec3.y * vec3.y + vec3.z * vec3.z\n  377      if n == 1.0 then\n\n2 matches in 1 file\n\n\nSearching 138 files for \"getPosition\" (case sensitive)\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\cocos\\cocos2d\\DeprecatedCocos2dFunc.lua:\n  851  \n  852  function CCTMXLayerDeprecated.positionAt(self,tileCoordinate)\n  853:     deprecatedTip(\"CCTMXLayer:positionAt\",\"CCTMXLayer:getPositionAt\")\n  854:     return self:getPositionAt(tileCoordinate)\n  855  end\n  856  CCTMXLayer.positionAt = CCTMXLayerDeprecated.positionAt\n  ...\n  987  \n  988  function NodeDeprecated.getVertexZ(self)\n  989:     deprecatedTip(\"cc.Node:getVertexZ\", \"cc.Node:getPositionZ\")\n  990:     return self:getPositionZ()\n  991  end\n  992  cc.Node.getVertexZ = NodeDeprecated.getVertexZ\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cc\\components\\ui\\DraggableProtocol.lua:\n   39  \t\treturn true\n   40  \telseif \"moved\" == event.name then\n   41: \t\tlocal posX, posY = self.target_:getPosition()\n   42  \t\tself.target_:setPosition(\n   43  \t\t\tposX + event.x - event.prevX,\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cc\\ui\\UIBoxLayout.lua:\n  185  \n  186      if iskindof(container, \"UILayout\") then\n  187:         local cx, cy = container:getPosition()\n  188          x = x + cx\n  189          y = y + cy\n  ...\n  276          for index, item in ipairs(widgets) do\n  277              local widget = item.widget\n  278:             widget:setPositionY(widget:getPositionY() - actualSize[index].height)\n  279          end\n  280      elseif self.direction_ == display.RIGHT_TO_LEFT then\n  281          for index, item in ipairs(widgets) do\n  282              local widget = item.widget\n  283:             widget:setPositionX(widget:getPositionX() - actualSize[index].width)\n  284          end\n  285      end\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cc\\ui\\UILayout.lua:\n  155  --------------------------------\n  156  -- 返回位置信息\n  157: -- @function [parent=#UILayout] getPosition\n  158  -- @return number#number  x\n  159  -- @return number#number  y\n  ...\n  161  -- end --\n  162  \n  163: function UILayout:getPosition()\n  164      return self.position_.x, self.position_.y\n  165  end\n  ...\n  169  --------------------------------\n  170  -- 返回x位置信息\n  171: -- @function [parent=#UILayout] getPositionX\n  172  -- @return number#number  x\n  173  \n  174  -- end --\n  175  \n  176: function UILayout:getPositionX()\n  177      return self.position_.x\n  178  end\n  ...\n  182  --------------------------------\n  183  -- 返回y位置信息\n  184: -- @function [parent=#UILayout] getPositionY\n  185  -- @return number#number  y\n  186  \n  187  -- end --\n  188  \n  189: function UILayout:getPositionY()\n  190      return self.position_.y\n  191  end\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cc\\ui\\UIListView.lua:\n  226  \t\t\tlocal itemRect\n  227  \t\t\tfor i,v in ipairs(self.items_) do\n  228: \t\t\t\tlocal posX, posY = v:getPosition()\n  229  \t\t\t\tlocal itemW, itemH = v:getItemSize()\n  230  \t\t\t\titemRect = cc.rect(posX, posY, itemW, itemH)\n  ...\n  581  \t\t\ttransition.moveBy(self.items_[i], moveByParams)\n  582  \t\telse\n  583: \t\t\tposX, posY = self.items_[i]:getPosition()\n  584  \t\t\tself.items_[i]:setPosition(posX + x, posY + y)\n  585  \t\t\tif i == beginIdx then\n  ...\n  706  \t\tfor i, item in ipairs(self.items_) do\n  707  \t\t\tlocal w,h = item:getItemSize()\n  708: \t\t\tlocal x,y = item:getPosition()\n  709  \t\t\tlocal anchor = item:getAnchorPoint()\n  710  \t\t\tx = x - anchor.x * w\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cc\\ui\\UIPageView.lua:\n  411  ]]\n  412  function UIPageView:resetPages_()\n  413: \tlocal x,y = self.pages_[self.curPageIdx_]:getPosition()\n  414  \n  415  \tif x == self.viewRect_.x then\n  ...\n  417  \tend\n  418  \tprint(\"UIPageView - resetPages_\")\n  419: \t-- self.pages_[self.curPageIdx_]:getPosition(self.viewRect_.x, y)\n  420  \tself:disablePage()\n  421  \tself:gotoPage(self.curPageIdx_)\n  ...\n  458  \n  459  \tlocal disABS = math.abs(dis)\n  460: \tlocal x = self.pages_[pageIdx]:getPosition()\n  461  \n  462  \tfor i=1,disABS do\n  ...\n  584  \t\ttable.insert(threePages, self.pages_[self.curPageIdx_])\n  585  \telseif 2 == count then\n  586: \t\tlocal posX, posY = self.pages_[self.curPageIdx_]:getPosition()\n  587  \t\tif posX > self.viewRect_.x then\n  588  \t\t\tpage = self:getNextPage(false)\n  ...\n  617  \n  618  \t-- current\n  619: \tposX, posY = page:getPosition()\n  620  \tposX = posX + dis\n  621  \tpage:setPosition(posX, posY)\n  ...\n  644  \tlocal pageR = self:getNextPage(true) -- self.pages_[self.curPageIdx_ + 1]\n  645  \tlocal bChange = false\n  646: \tlocal posX, posY = page:getPosition()\n  647  \tlocal dis = posX - self.viewRect_.x\n  648  \n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cc\\ui\\UIScrollView.lua:\n  280  \tend\n  281  \n  282: \tlocal x, y = self.scrollNode:getPosition()\n  283  \tlocal bound = self.scrollNode:getCascadeBoundingBox()\n  284  \tlocal disY = self.viewRect_.y + self.viewRect_.height - bound.y - bound.height\n  ...\n  444  \t\tself.prevY_ = event.y\n  445  \t\tself.bDrag_ = false\n  446: \t\tlocal x,y = self.scrollNode:getPosition()\n  447  \t\tself.position_ = {x = x, y = y}\n  448  \n  ...\n  766  \t\tlocal posY = (self.viewRect_.y - bound.y)*(self.viewRect_.height - size.height)/(bound.height - self.viewRect_.height)\n  767  \t\t\t+ self.viewRect_.y + size.height/2\n  768: \t\tlocal x, y = self.sbV:getPosition()\n  769  \t\tself.sbV:setPosition(x, posY)\n  770  \tend\n  ...\n  775  \t\tlocal posX = (self.viewRect_.x - bound.x)*(self.viewRect_.width - size.width)/(bound.width - self.viewRect_.width)\n  776  \t\t\t+ self.viewRect_.x + size.width/2\n  777: \t\tlocal x, y = self.sbH:getPosition()\n  778  \t\tself.sbH:setPosition(posX, y)\n  779  \tend\n  ...\n  796  \n  797  \t-- local nodePoint = self:convertToNodeSpace(cc.p(self.viewRect_.x, self.viewRect_.y))\n  798: \tlocal posX, posY = self:getPosition()\n  799  \tlocal ws = self:convertToWorldSpace(cc.p(posX, posY))\n  800  \tself.viewRect_.x = self.viewRect_.x + ws.x\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cc\\ui\\UISlider.lua:\n  343      if event == \"began\" then\n  344          if not self:checkTouchInButton_(x, y) then return false end\n  345:         local posx, posy = self.buttonSprite_:getPosition()\n  346          local buttonPosition = self:convertToWorldSpace(cc.p(posx, posy))\n  347          self.buttonPositionOffset_.x = buttonPosition.x - x\n  ...\n  527              self:addChild(self.barfgSprite_, UISlider.BARFG_ZORDER)\n  528              self.barfgSprite_:setAnchorPoint(cc.p(0, 0))\n  529:             self.barfgSprite_:setPosition(self.barSprite_:getPosition())\n  530          end\n  531      end\n  ...\n  567      end\n  568  \n  569:     local posX, posY = self.barSprite_:getPosition()\n  570      local size = self.barSprite_:getBoundingBox()\n  571      local ap = self.barSprite_:getAnchorPoint()\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cc\\ui\\UIStretch.lua:\n   54  --------------------------------\n   55  -- 得到位置信息\n   56: -- @function [parent=#UIStretch] getPosition\n   57  -- @return number#number  x\n   58  -- @return number#number  y\n   ..\n   60  -- end --\n   61  \n   62: function UIStretch:getPosition()\n   63      return self.position_.x, self.position_.y\n   64  end\n   ..\n   68  --------------------------------\n   69  -- 得到x位置信息\n   70: -- @function [parent=#UIStretch] getPositionX\n   71  -- @return number#number  x\n   72  \n   73  -- end --\n   74  \n   75: function UIStretch:getPositionX()\n   76      return self.position_.x\n   77  end\n   ..\n   81  --------------------------------\n   82  -- 得到y位置信息\n   83: -- @function [parent=#UIStretch] getPositionY\n   84  -- @return number#number  y\n   85  \n   86  -- end --\n   87  \n   88: function UIStretch:getPositionY()\n   89      return self.position_.y\n   90  end\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cocos2dx\\ActionEx.lua:\n  376  function ActionBuilder:moveTo(dt, x, y)\n  377     if self.target then\n  378:       x = x or self.target:getPositionX()\n  379        if not y and type(x) == \"number\" then\n  380:          y = self.target:getPositionY()\n  381        end\n  382     end\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\cocos2dx\\NodeEx.lua:\n  532      self:setName(node:getName())\n  533      self:setContentSize(node:getContentSize())\n  534:     self:setPosition(node:getPosition())\n  535      self:setAnchorPoint(node:getAnchorPoint())\n  536      self:setScaleX(node:getScaleX())\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\shortcodes.lua:\n  461  \n  462  function Node:moveTo(time, x, y)\n  463:     self:runAction(cc.MoveTo:create(time, cc.p(x or self:getPositionX(), y or self:getPositionY())))\n  464      return self\n  465  end\n\nE:\\MODELPROJECT\\client\\templatePro\\src\\framework\\transition.lua:\n  260  function transition.moveTo(target, args)\n  261      assert(not tolua.isnull(target), \"transition.moveTo() - target is not cc.Node\")\n  262:     local tx, ty = target:getPosition()\n  263      local x = args.x or tx\n  264      local y = args.y or ty\n\n43 matches across 13 files\n",
+			"settings":
+			{
+				"buffer_size": 9278,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/E/MODELPROJECT/client/templatePro/src/cocos/cocos2d/Cocos2d.lua",
+			"settings":
+			{
+				"buffer_size": 10083,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/scenes/MainScene.lua",
+			"settings":
+			{
+				"buffer_size": 1700,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/service/GameService.lua",
+			"settings":
+			{
+				"buffer_size": 583,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/MyApp.lua",
+			"settings":
+			{
+				"buffer_size": 2121,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/utils/MessageManager.lua",
+			"settings":
+			{
+				"buffer_size": 1602,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/service/ViewMgr.lua",
+			"settings":
+			{
+				"buffer_size": 839,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/domain/MapInfo.lua",
+			"settings":
+			{
+				"buffer_size": 521,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/config/GameConfig.lua",
+			"settings":
+			{
+				"buffer_size": 151,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.json",
+			"settings":
+			{
+				"buffer_size": 1331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/framework/cc/mvc/init.lua",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/service/TileMapService.lua",
+			"settings":
+			{
+				"buffer_size": 430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/framework/display.lua",
+			"settings":
+			{
+				"buffer_size": 47807,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/JHFYL/client/templatePro",
+		"/E/JHFYL/client/templatePro/src",
+		"/E/JHFYL/client/templatePro/src/app",
+		"/E/JHFYL/client/templatePro/src/app/config",
+		"/E/JHFYL/client/templatePro/src/app/domain",
+		"/E/JHFYL/client/templatePro/src/app/scenes",
+		"/E/JHFYL/client/templatePro/src/app/service",
+		"/E/JHFYL/client/templatePro/src/app/utils",
+		"/E/JHFYL/client/templatePro/src/app/views",
+		"/E/JHFYL/client/templatePro/src/framework/cc"
+	],
+	"file_history":
+	[
+		"/E/JHFYL/client/templatePro/src/config.lua",
+		"/E/MODELPROJECT/client/templatePro/src/app/service/ViewMgr.lua",
+		"/E/test/src/app/MyApp.lua",
+		"/E/JHFYL/client/templatePro/src/app/scenes/MainScene.lua",
+		"/E/JHFYL/client/templatePro/src/framework/cc/mvc/AppBase.lua",
+		"/E/JHFYL/client/templatePro/config.json",
+		"/E/JHFYL/client/templatePro/src/app/service/TileMapService.lua",
+		"/E/JHFYL/client/templatePro/src/app/domain/SongInfo.lua",
+		"/E/JHFYL/client/templatePro/src/app/MyApp.lua",
+		"/C/Users/loadingtech/AppData/Roaming/Sublime Text 3/Packages/User/quick-comminuty-dev.sublime-settings",
+		"/E/MODELPROJECT/client/templatePro/src/framework/json.lua",
+		"/E/MODELPROJECT/client/templatePro/src/framework/functions.lua",
+		"/E/MODELPROJECT/client/templatePro/src/framework/cc/mvc/AppBase.lua",
+		"/E/MODELPROJECT/client/templatePro/src/framework/display.lua",
+		"/E/project/fxcard/client/fxcard/src/app/services/SceneMgr.lua",
+		"/E/zhajinhua/client/zhajinhua/zhajinhua.sublime-project",
+		"/E/zhajinhua/client/zhajinhua/src/app/MyApp.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/services/ViewMgr.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/services/GameService.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/scenes/LogoScene.lua",
+		"/E/fxcard/client/fxcard/src/app/MyApp.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/views/LoggleView.lua",
+		"/E/zhajinhua/client/zhajinhua/config.json",
+		"/E/zhajinhua/client/zhajinhua/src/app/GameControll/GameService.lua",
+		"/E/zhajinhua/client/zhajinhua/src/main.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/services/ProtocolMgr.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/services/AccountDataMgr.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/services/BullfightMgr.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/config/GameConfig.lua",
+		"/E/zhajinhua/client/zhajinhua/src/framework/display.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/utils/MLayerMgr.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/scenes/LobbyScene.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/scenes/BattleZhaJinHuaScene.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/scenes/BattleNiuNiuScene.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/scenes/BattleLandlordScene.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/pregame/scriptsloadingtable.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/utils/Global.lua",
+		"/E/zhajinhua/client/zhajinhua/src/config.lua",
+		"/E/zhajinhua/client/zhajinhua/src/app/utils/UpdateUtils.lua",
+		"/E/zhajinhua/client/zhajinhua/src/framework/cc/uiloader/uiloader.lua",
+		"/E/zhajinhua/client/zhajinhua/src/framework/cc/uiloader/CCSUILoader.lua",
+		"/E/zhajinhua/client/zhajinhua/src/framework/cc/init.lua",
+		"/E/zhajinhua/client/zhajinhua/src/framework/cc/uiloader/init.lua",
+		"/E/zhajinhua/client/zhajinhua/src/framework/device.lua",
+		"/E/coPro/client/chinesepoker/chinesepoker_lua_pro.sublime-project",
+		"/E/worker/cscommon/build/export_config.py",
+		"/E/coPro/client/chinesepoker/src/app/GameControll/ProtocolMgr.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/gameConfig.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/UpdateUtils.lua",
+		"/E/coPro/client/chinesepoker/src/app/GameDataModel/BattleRole.lua",
+		"/E/coPro/client/chinesepoker/src/app/BattleViews/ReleaseRoomUI.lua",
+		"/E/coPro/client/chinesepoker/src/app/scenes/BattleScene.lua",
+		"/E/worker/cscommon/build/install.py",
+		"/E/coPro/client/chinesepoker/src/app/BattleViews/BattleRoleDis.lua",
+		"/E/coPro/client/chinesepoker/src/app/GameControll/RoomDataMgr.lua",
+		"/E/coPro/client/chinesepoker/src/framework/functions.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/MLayerMgr.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/MessageManager.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/Global.lua",
+		"/E/coPro/client/chinesepoker/src/app/GameControll/GameService.lua",
+		"/E/coPro/client/chinesepoker/src/app/MyApp.lua",
+		"/E/coPro/client/chinesepoker/src/app/pregame/scriptsloadingtable.lua",
+		"/E/test/pythonPro/scr01.py",
+		"/E/coPro/client/chinesepoker/src/app/scenes/LoginScene.lua",
+		"/E/coPro/client/resourceTools/version.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/LuaToCppBridge.lua",
+		"/E/coPro/client/chinesepoker/src/app/tables/errormessages.lua",
+		"/E/coPro/client/chinesepoker/src/app/scenes/LobbyScene.lua",
+		"/E/coPro/client/chinesepoker/src/app/tables/errormessagesinterface.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/version.lua",
+		"/E/coPro/client/chinesepoker/frameworks/cocos2d-x/external/lua/luajit/src/dynasm/dynasm.lua",
+		"/D/apache-tomcat-7.0.54-windows-x64/apache-tomcat-7.0.54/webapps/downLoad/res/version.lua",
+		"/D/cocos/quick-3.3/quick/framework/functions.lua",
+		"/D/cocos/quick-3.3/quick/framework/device.lua",
+		"/C/Users/LYH/Desktop/Update-Modoule-of-Quick-x/update.lua",
+		"/E/coPro/client/chinesepoker/frameworks/cocos2d-x/external/flatbuffers/idl_gen_go.cpp",
+		"/E/test/testexit/src/app/scenes/MainScene.lua",
+		"/E/test/testquick/src/app/scenes/MainScene.lua",
+		"/D/cocos/quick-3.3/cocos/platform/CCFileUtils.h",
+		"/E/coPro/client/chinesepoker/src/main.lua",
+		"/E/coPro/client/chinesepoker/src/app/PKCtrl/PKCtrlModel.lua",
+		"/E/coPro/client/chinesepoker/src/app/PKCtrl/PKCtrlRpc_pb.lua",
+		"/E/coPro/client/chinesepoker/src/app/GameControll/AccountMgr.lua",
+		"/E/coPro/client/chinesepoker/src/app/GameDataModel/AccountInfo.lua",
+		"/E/coPro/client/chinesepoker/src/app/scenes/LogoScene.lua",
+		"/E/coPro/client/chinesepoker/src/protobuf/protobuf.lua",
+		"/E/coPro/client/chinesepoker/src/protobuf/listener.lua",
+		"/E/coPro/client/chinesepoker/src/app/Auth/AuthRpc_pb.lua",
+		"/E/coPro/client/chinesepoker/src/protobuf/PublicStruct_pb.lua",
+		"/E/coPro/client/chinesepoker/src/app/GM/GMRpc_pb.lua",
+		"/E/coPro/client/chinesepoker/src/app/Config/ConfigRpc_pb.lua",
+		"/E/coPro/client/chinesepoker/src/app/PB/PublicStruct_pb.lua",
+		"/E/coPro/client/chinesepoker/src/app/test/person_pb.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/app/scenes/LobbyScene.lua",
+		"/E/coPro/client/chinesepoker/src/app/BattleViews/SettingUI.lua",
+		"/E/coPro/client/chinesepoker/src/app/test/test.lua",
+		"/E/coPro/client/chinesepoker/src/app/test/FileOperaTest.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/app/utils/gameConfig.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/app/utils/GameDebug.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/app/MyApp.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/app/scenes/BattleScene.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/GameDebug.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/NetSprite.lua",
+		"/E/coPro/client/chinesepoker/frameworks/cocos2d-x/cocos/2d/CCNode.cpp",
+		"/D/cocos/quick-3.3/quick/framework/display.lua",
+		"/E/test/testquick/.project",
+		"/E/test/testquick/src/main.lua",
+		"/E/coPro/client/chinesepoker/src/appentry.lua",
+		"/E/coPro/client/chinesepoker/src/update.lua",
+		"/D/cocos/quick-3.3/quick/framework/crypto.lua",
+		"/D/apache-tomcat-7.0.54-windows-x64/apache-tomcat-7.0.54/webapps/downLoad/flist.lua",
+		"/C/Users/LYH/Desktop/Update-Modoule-of-Quick-x/sample/helloworld/scripts/appentry.lua",
+		"/C/Users/LYH/Desktop/Update-Modoule-of-Quick-x/sample/helloworld/scripts/main.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/update.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/updateUtils.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/ResUpdateTools.lua",
+		"/C/Users/LYH/Desktop/app.MyApp",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/main.lua",
+		"/E/coPro/client/chinesepoker/src/framework/display.lua",
+		"/E/coPro/client/chinesepoker/src/app/BattleViews/RoleInfoUI.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/app/GameControll/ProtocolMgr.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/protobuf/protobuf.lua",
+		"/E/coPro/client/chinesepoker/src/app/BattleViews/CardShowGroup.lua",
+		"/E/coPro/client/chinesepoker/frameworks/runtime-src/proj.android/assets/src/app/utils/LuaToCppBridge.lua",
+		"/E/coPro/client/chinesepoker/src/app/UIView/NoticeView.lua",
+		"/E/coPro/client/chinesepoker/src/app/utils/AudioHelper.lua",
+		"/D/cocos/quick-3.3/quick/framework/audio.lua",
+		"/E/coPro/client/chinesepoker/frameworks/cocos2d-x/cocos/math/CCGeometry.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"E:\\MODELPROJECT\\client\\templatePro\\src",
+			"E:\\zhajinhua\\client\\zhajinhua\\src",
+			"E:\\coPro\\client\\chinesepoker",
+			"E:\\coPro\\client\\chinesepoker\\src,E:\\coPro\\client\\chinesepoker",
+			"E:\\coPro\\client\\chinesepoker\\src",
+			"E:\\coPro\\client\\chinesepoker\\src\\app\\BattleViews",
+			"E:\\coPro\\client\\chinesepoker\\src",
+			"E:\\coPro\\client\\chinesepoker",
+			"E:\\coPro\\client\\chinesepoker\\src",
+			"E:\\coPro\\client\\chinesepoker\\res",
+			"E:\\coPro\\client\\chinesepoker\\src",
+			"",
+			"E:\\coPro\\client\\chinesepoker\\src\\app",
+			"E:\\coPro\\client\\chinesepoker",
+			"E:\\coPro\\client\\chinesepoker\\src",
+			"E:\\worker\\client\\ChinesePoker",
+			"E:\\coPro\\client\\chinesepoker\\src\\app",
+			"E:\\coPro\\client\\chinesepoker",
+			"E:\\coPro\\client\\chinesepoker\\src",
+			"E:\\coPro\\client\\chinesepoker\\src\\app",
+			"E:\\coPro\\client\\chinesepoker",
+			"E:\\coPro\\client\\chinesepoker\\src",
+			"E:\\worker\\client\\ChinesePoker",
+			"",
+			"E:\\worker\\client\\ChinesePoker",
+			"E:\\worker\\client\\ChinesePoker\\res",
+			"E:\\worker\\client\\combat\\src",
+			"E:\\worker\\client\\combat",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"getPosition",
+			"cc.vec",
+			"cc.vec3",
+			"cc.Vec3",
+			"replaceScene",
+			"landscape",
+			"landspace",
+			"frameSize",
+			"handler",
+			"path",
+			"uiloader",
+			"CSLoader",
+			"createNode",
+			"scaleY",
+			"device.model",
+			"model",
+			"CONFIG_SCREEN_AUTOSCALE",
+			"800",
+			"m_identity = ",
+			"m_identity",
+			"notifyShowACECard",
+			"ENUM_MSGTYPE_BATTLE_SHOWACECARD",
+			"notifyTurnToOperate",
+			"ENUM_MSGTYPE_BATTLE_TURNOPERATE",
+			"ENUM_MSGTYPE_GAME_RELEASEROOMSTATECHANGE",
+			"ENUM_MSGTYPE_GAME_RELEASEROOM",
+			"10004",
+			"ENUM_MSGTYPE_GAME_RELEASEROOM",
+			"loadScripts",
+			"welcome to hujiao poker",
+			"ScriptsLoadingTable",
+			"registMsg(MessageType.ENUM_MSGTYPE_GAME_RELEASEROOM",
+			"ENUM_MSGTYPE_GAME_RELEASEROOM",
+			"getRoomInfoAsk",
+			"sureBtn",
+			"releaseRoom",
+			"ENUM_MSGTYPE_GAME_RELEASEROOM",
+			"userStateChangeHandler",
+			"ENUM_MSGTYPE_GAME_RELEASEROOMSTATECHANGE",
+			"getVoteType",
+			"notifyBattleReload",
+			"ENUM_MSGTYPE_BATTLE_BATTLERELOAD",
+			"notifyBattleReload",
+			"VoteType",
+			"WXLoginBack",
+			"showTips(1",
+			"showTips",
+			"ErrorMessages",
+			"登录游戏",
+			"cardNum:setString",
+			"roleDis.cardNum",
+			"downLoadPage",
+			"clickInvite",
+			"showAndSetCardNum",
+			"refreshAllCardNum",
+			"CallLairdNotifyCBNotify",
+			"downLoadAni",
+			"fileExistePrint",
+			"checkDirExist",
+			"alreadyCallBack",
+			"needLoadFiles",
+			"settingClick",
+			"loadedFiles",
+			"removeFiles",
+			"Access_Token:",
+			"/GetNotice?",
+			"GetMessage?",
+			"8084/GetMessage?",
+			"http://192.168.1.141:8084/GetMessage?",
+			"announcementRequest",
+			"announcementRsponse",
+			"gotoLobbyScene",
+			"LobbyScene",
+			"http://192.168.1.141:8083/login?",
+			"print",
+			"cclog",
+			"cclog(\"nil ~= self.scheduleCallBack\")\t",
+			"self.scheduleCallBack(3",
+			"scheduleCallBack(2",
+			"scheduleCallBack(",
+			"self.scheduleCallBack(",
+			"curSynState",
+			"scheduleCallBack(2",
+			"fileExistePrint",
+			"require \"main\"",
+			"versionCheckEnd",
+			"xiaoJieSuan",
+			"notifyRoundEnd",
+			"getRoom",
+			"Read design size error!",
+			"welcome to hujiao poker!",
+			"requestSchedule",
+			"MLayerMgr.Close",
+			"Close",
+			"stopOnTick",
+			"initiativeClose",
+			"rulesClick",
+			"SearchPath",
+			"AuthRpc_pb",
+			"FieldDescriptor",
+			"protobuf\"",
+			"protobuf",
+			"src/",
+			"OnTick",
+			"Connect",
+			"createSocketAsk",
+			"ConnectBattle",
+			"getRoomMessage",
+			"CanComeBackLabby",
+			"getRoom",
+			"showTips",
+			"debug.log",
+			"cclog",
+			"GameDebug",
+			"ChangetLog",
+			"Logger",
+			"schedule",
+			"crypto",
+			"check",
+			"removeFile",
+			"printf",
+			"list_filename",
+			"appentry",
+			"出牌",
+			"m_roleList",
+			"角色",
+			"ENUM_MSGTYPE_GAME_RELEASEROOMSTATECHANGE",
+			"ENUM_MSGTYPE_GAME_RELEASEROOMCLOSE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/service/GameMapMgr.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/views/GameMapView.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9278,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										216,
+										223
+									],
+									[
+										333,
+										340
+									],
+									[
+										754,
+										765
+									],
+									[
+										793,
+										804
+									],
+									[
+										1015,
+										1026
+									],
+									[
+										1053,
+										1064
+									],
+									[
+										1327,
+										1338
+									],
+									[
+										1588,
+										1599
+									],
+									[
+										1805,
+										1816
+									],
+									[
+										2076,
+										2087
+									],
+									[
+										2318,
+										2329
+									],
+									[
+										2456,
+										2467
+									],
+									[
+										2637,
+										2648
+									],
+									[
+										2743,
+										2754
+									],
+									[
+										2907,
+										2918
+									],
+									[
+										3013,
+										3024
+									],
+									[
+										3247,
+										3258
+									],
+									[
+										3481,
+										3492
+									],
+									[
+										3705,
+										3716
+									],
+									[
+										3970,
+										3981
+									],
+									[
+										4131,
+										4142
+									],
+									[
+										4321,
+										4332
+									],
+									[
+										4529,
+										4540
+									],
+									[
+										4684,
+										4695
+									],
+									[
+										4911,
+										4922
+									],
+									[
+										5108,
+										5119
+									],
+									[
+										5374,
+										5385
+									],
+									[
+										5647,
+										5658
+									],
+									[
+										5917,
+										5928
+									],
+									[
+										6123,
+										6134
+									],
+									[
+										6484,
+										6495
+									],
+									[
+										6856,
+										6867
+									],
+									[
+										6980,
+										6991
+									],
+									[
+										7274,
+										7285
+									],
+									[
+										7413,
+										7424
+									],
+									[
+										7595,
+										7606
+									],
+									[
+										7702,
+										7713
+									],
+									[
+										7867,
+										7878
+									],
+									[
+										7974,
+										7985
+									],
+									[
+										8219,
+										8230
+									],
+									[
+										8317,
+										8328
+									],
+									[
+										8561,
+										8572
+									],
+									[
+										8852,
+										8863
+									],
+									[
+										8878,
+										8889
+									],
+									[
+										9168,
+										9179
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/MODELPROJECT/client/templatePro/src/cocos/cocos2d/Cocos2d.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/scenes/MainScene.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app/service/GameService.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/app/MyApp.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/app/utils/MessageManager.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/app/service/ViewMgr.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/app/domain/MapInfo.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/app/config/GameConfig.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/framework/cc/mvc/init.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src/app/service/TileMapService.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/framework/display.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13556,
+								13576
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6915.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "templatepro.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"function",
+				"src\\framework\\functions.lua"
+			],
+			[
+				"carddata",
+				"src\\app\\GameDataModel\\CardData.lua"
+			],
+			[
+				"roomdatamgr",
+				"src\\app\\GameControll\\RoomDataMgr.lua"
+			],
+			[
+				"battlerole",
+				"src\\app\\GameDataModel\\BattleRole.lua"
+			],
+			[
+				"menuitem",
+				"frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api\\MenuItem.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
